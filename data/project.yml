@@ -1,0 +1,72 @@
+work_process:
+  enable : true
+  title : "Project deliverables"
+  item:
+  - title : "1"
+    icon : "images/omnicav-icons7.png"
+    content : "A real-world validated simulation-based framework for certifying autonomous vehicles"
+
+  - title : "2"
+    icon : "images/omnicav-icons6.png"
+    content : "Input into national and international policy and regulations on AV certification"
+
+  - title : "3"
+    icon : "images/omnicav-icons5.png"
+    content : "Engagement with the public to grow trust on the topic of AVs"
+
+  - title : "4"
+    icon : "images/omnicav-icons4.png"
+    content : "Strengthening of the UK’s position as a leader in the global AV ecosystem"
+
+  - title : "5"
+    icon : "images/omnicav-icons2.png"
+    content : "Enabling the deployment of autonomous vehicles outside the traditional urban setting, allowing for an equitable shift to smart mobility in rural areas as well as city centres"
+
+how_works:
+  enable: true
+  title : "How does it work?"
+  icon : "images/icons/print.png"
+
+innovations:
+  enable: true
+  title : "Innovations"
+  intro: There are several innovation areas in which OmniCAV will develop new databases, tools, and processes to accelerate the development, deployment, and adoption of safe autonomous vehicles.
+  item:
+  - title: Representative spectrum of UK road environments
+    description: Efforts related to the development of AV and smart mobility solutions have so far been heavily focused on urban areas. However, there are huge potential benefits to bringing these innovations to rural areas. While urban residents already have access to a wide range of mobility options, those living in the country-side are often forced to own a car for lack of other options. Including suburban and rural areas in the simulated digital twin and the road loop for on road testing will allow OmniCAV to demonstrate the safety of AVs across different environments and unlock their benefits for everyone. This will also establish differences in testing requirements between urban and rural environments.
+
+  - title: Scenario Library
+    description: The OmniCAV project will build a library of scenarios against which AVs should be tested in simulation. Scenarios are crucial to the testing of AVs as they allow for particularly dangerous or complex situations, which occur rarely in the real world but account for the majority of accidents, to be simulated, allowing the ability of the vehicle under test to navigate these situations safely. OmniCAV will create a best-in-class library by integrating three state-of-the-art methods of scenario generation - accident data, insurance claim data, and Systems Theoretic Process Analysis (bottom-up analysis of the vehicle’s control software to identify failures).
+
+  - title: Smart actors for realistic dynamic contexts
+    description: The simulations used to test autonomous vehicles need to be faithful recreations of the real world. This realism must extend beyond the static environment – roads, trees, buildings, etc. – to include the dynamic context around the vehicle under test. The hardest problem to solve for AVs is how to interact safely with human road users, so realistically simulating the behaviour of the virtual humans that interact with the vehicle under test is crucial. OmniCAV’s simulation platform will include world-first Artificial Intelligence-based ‘smart actors’, working in conjunction with a traffic model for the road loop, calibrated and validated by traffic data taken from the real roads.
+
+  - title: Security
+    description: The simulations used to certify that autonomous vehicles are safe need themselves to be trusted and auditable. To help build trust in the integrity of the testing results, the OmniCAV simulation will use tamper-proof inputs and outputs and will be designed for certification. The consortium will benefit from experience in the certification of safety-critical systems in the aerospace industry.
+
+  - title: Geospatial data
+    description: OmniCAV will put in place best practices and establish new specifications and standards for collecting geospatial data. These will contribute to developing a complete digital copy of the UK in order to build a nationwide virtual test environment. As part of the OmniCAV project, a digital twin of the 32km road loop in Oxfordshire will be built, serving as an exemplar for future work on building a broader geospatial infrastructure.
+
+  - title: Real-world validation
+    description: OmniCAV will combine simulation-based testing with tests in the real world, both on proving grounds and public roads. The real-world testing will allow the performance of the simulator to be validated by ensuring that it correctly predicts the outcomes of situations in the real world.
+
+team:
+  enable: false
+  title : "My Team"
+  team_member:
+    - title : "Jack Schenziwe"
+      image : "images/team/member-1.png"
+      designation : "Project Manager"
+
+    - title : "Julias Carlie"
+      image : "images/team/member-2.png"
+      designation : "Web Developer"
+
+    - title : "John Doe"
+      image : "images/team/member-3.png"
+      designation : "Designer"
+
+
+clients_logo_slider:
+  enable : true
+  title : "Our partners"

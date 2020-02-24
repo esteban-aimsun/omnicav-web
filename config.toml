@@ -1,0 +1,58 @@
+baseURL = "/"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "OmniCAV"
+[[menu.main]]
+URL = "project"
+name = "Project"
+weight = 1
+[[menu.main]]
+URL = "blog"
+name = "News"
+weight = 4
+[[menu.main]]
+URL = "faqs"
+name = "FAQS"
+weight = 3
+[[menu.main]]
+URL = "partners"
+name = "Partners"
+weight = 2
+[params]
+address = "UK"
+author = "OmniCAV"
+copyright = "Copyright &copy; 2020 OmniCAV. All rights reserved. Theme by [gethugothemes](https://gethugothemes.com)"
+description = "This is meta description"
+email = "example@omnicav.com"
+google_analitycs_id = "Your ID"
+home = "Home"
+logo = "images/omnicav-shadow.png"
+phone = "+00 000 00 0000"
+theme_color = "#1d405e"
+[params.contact]
+enable = true
+form_action = "https://formspree.io/xrgkevow"
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+[params.preloader]
+enable = true
+preloader = ""
+[[params.social]]
+URL = "https://twitter.com/omnicav"
+icon = "ti-twitter-alt"
+[[params.social]]
+URL = "https://www.linkedin.com/company/omnicav/"
+icon = "ti-linkedin"

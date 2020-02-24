@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+  {{ partial "page-title.html" . }}
+
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="content">
+            <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+            <p class="font-secondary">Published on {{ .PublishDate.Format "Jan 02, 2006" }} by <span class="text-primary">{{.Site.Params.Author}}</span></p>
+            {{.Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+{{ end }}

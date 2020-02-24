@@ -1,0 +1,38 @@
+partner_list:
+ enable : true
+ item:
+  - title : Admiral
+    logo: images/clients-logo/admiral.jpg
+    description : Admiral is a FTSE 100 insurance company with 25 years history in delivering motor insurance direct to the UK market. Admiral has now grown to today serving over 4 million motor customers. Admiral will use its extensive experience to assist with the creation of a library of scenarios against which to test CAVs.
+
+  - title : Aimsun
+    logo: images/clients-logo/aimsun.jpg
+    description : Aimsun is an international software and services company with a singular focus on algorithms, modelling, and operational know-how for strategic transport planning, traffic engineering and mobility management. Aimsun develops, markets and supports Aimsun Next transport modelling software, which will provide the traffic simulation underpinning the OmniCAV project and developing its interfaces to allow seamless compatibility with XPI and Latent Logic.
+
+  - title : Arcadis
+    logo: images/clients-logo/arcadis.jpg
+    description : Arcadis, one of the world’s leading providers of Design and Consultancy services, has a strong focus on driving innovation in the design, delivery and operation of built and natural assets, including modelling the impact of CAV and new mobility on city and regional policy. Working with the consortium, Arcadis will be developing and implementing the traffic model at the heart of OmniCAV, designed to enable acceleration of testing the reliability and safety of CAV technology.
+
+  - title : Arrival
+    logo: images/clients-logo/arrival.jpg
+    description : ARRIVAL is making vehicles the way they should be – smart and electric. The company is currently focused on commercial vehicles, with a van, bus and taxi in development. ARRIVAL is working with some of the world’s leading businesses and governments and are currently running a series of trials with companies like the Royal Mail. For OmniCAV, Arrival will be developing the CAV model to drive in the simulated digital twin, as well the vehicle for real-world tests.
+
+  - title : Ordnance Survey (OS)
+    logo: images/clients-logo/ordnance-survey.jpg
+    description : OS is Britain’s national mapping agency, providing the geospatial framework relied upon by government, industry and the general public. Its role within OmniCAV is to specify, capture and maintain the high-resolution spatial data required within a robust autonomous vehicle simulation environment. OS will work alongside the other members of the OmniCAV consortium to establish a specification and standard for a geospatial dataset to act as the underpinning reference, or digital twin, for CAV simulation.
+
+  - title : Oxfordshire County Council (OCC)
+    logo: images/clients-logo/oxfordshire-city-council.jpg
+    description : As the first UK authority to include connected and autonomous vehicles (CAVs) in local strategy and development plans, as well as to have a dedicated team, OCC is keen to support the safe growth and deployment of CAVs and promote an equitable change to smart mobility. In OmniCAV, OCC will be providing data crucial to construct and evaluate the simulation environment, local knowledge and facilitate the road trials. OCC will also be leading on the citizen engagement during the project.
+
+  - title : UK Atomic Energy Authority (UKAEA)
+    logo: images/clients-logo/race.jpg
+    description : UKAEA’s centre for Remote Applications for Challenging Environments (RACE) has teamed with Millbrook, the leading independent vehicle test and validation services provider, to offer a unique, controlled testbed representative of an urban environment for the development of connected and autonomous vehicle (CAV) technologies. For OmniCAV, the road and test track networks of the two sites will operate as a single facility offering all-weather, multi-user access and seamless transfers between environments, cost-effectively addressing all functional requirements, both current and future, of real-world urban scenarios.
+
+  - title : WMG
+    logo: images/clients-logo/wmg.jpg
+    description : WMG was established to reinvigorate UK manufacturing through the application of cutting edge research and effective knowledge transfer. WMG is a world-leading research and education group and an academic department of the University of Warwick. WMG has pioneered an international model for working with industry, commerce and public sectors and holds a unique position between academia and industry. The Group’s strength is providing companies with the opportunity to gain a competitive edge by understanding a company’s strategy and working in partnership with them to create, through multidisciplinary research, ground-breaking products, processes and services.
+
+  - title : XPI Simulation Ltd
+    logo: images/clients-logo/xpi-simulation.jpg
+    description : XPI Simulation, a wholly-owned subsidiary of Thales UK, designs and manufactures a range of world leading, cost-effective simulator systems for driver training and research applications. XPI's core capability lies in the development of a flexible and modular software architecture that accommodates the different functions related to driving simulation - including physical hardware interfaces, image generation, database generation, modelling, vehicle dynamics and scenario creation. For OmniCAV, XPI will be leading the design and development of the core simulation software that will be used to test autonomous vehicles.

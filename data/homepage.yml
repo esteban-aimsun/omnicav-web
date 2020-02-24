@@ -1,0 +1,71 @@
+---
+banner:
+  title: Virtual driving test <br> for safer, smarter <br> Autonomous Vehicles
+service:
+  enable: true
+  title: ''
+  item:
+  - title: What?
+    icon: images/omnicav-icons1.png
+    content: "OmniCAV is a consortium of ten world-leading organisations working together
+      to develop real-world validated simulation-based framework for the testing and
+      certification of autonomous \x03vehicles (AVs) in the UK. "
+    highlighted: false
+  - title: Why?
+    icon: images/omnicav-icons2.png
+    content: AVs have the potential to deliver safer, smarter, autonomous mobility
+      for all. But first we need to know that autonomous vehicles can handle challenging
+      road conditions, on country lanes as much as crowded city streets. Testing this
+      on public roads alone is not safe or scalable.
+    highlighted: false
+  - title: How?
+    icon: images/omnicav-icons3.png
+    content: 'Funded jointly by Innovate UK (70%) and the project partners (30%),
+      OmniCAV is drawing on experience from across the AV ecosystem to create a realistic
+      simulation that will enable accurate, reliable, and scalable testing of autonomous
+      vehicles in a risk-free virtual environment. '
+    highlighted: false
+about:
+  enable: true
+  content: 'The OmniCAV project will reinforce the UK’s reputation as one of the world’s
+    leaders for the development and deployment of AV technology and provide the following
+    benefits for the ecosystem and wider public:'
+  button:
+    enable: true
+    label: know more
+    URL: about
+education:
+  enable: true
+  item:
+  - title: Accelerating the introduction of safer, smarter mobility– in time for the 2021 government target to have AVs on our roads
+  - title: Building public trust and confidence in the safety of autonomous vehicles
+  - title: Enabling autonomous mobility in rural areas, which are most in need of improved transportation
+  - title: Reinforcing the UK’s reputation as a leader in the automotive and high tech sectors
+  - title: Providing tools and processes to strengthen the UK’s AV ecosystem
+  - title: Contributing a UK perspective to global safety standards to benefit the AV industry
+  - title: Encouraging cross-sector collaboration and stakeholder engagement to address the complex issues surrounding the broad adoption of autonomous vehicles
+clients_logo_slider:
+  enable: true
+  title: Our partners
+  item:
+  - logo: images/clients-logo/admiral.jpg
+    URL: http://examplesite.com
+  - logo: images/clients-logo/aimsun.jpg
+    URL: "#"
+  - logo: images/clients-logo/arcadis.jpg
+    URL: http://examplesite.com
+  - logo: images/clients-logo/arrival.jpg
+    URL: "#"
+  - logo: images/clients-logo/ordnance-survey.jpg
+    URL: http://examplesite.com
+  - logo: images/clients-logo/oxfordshire-city-council.jpg
+    URL: "#"
+  - logo: images/clients-logo/race.jpg
+    URL: http://examplesite.com
+  - logo: images/clients-logo/wmg.jpg
+    URL: "#"
+  - logo: images/clients-logo/xpi-simulation.jpg
+    URL: http://examplesite.com
+blog:
+  enable: true
+  title: News

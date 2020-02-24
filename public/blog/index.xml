@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on OmniCAV</title>
+    <link>/blog/</link>
+    <description>Recent content in News on OmniCAV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OmniCAV: Simulated road users in new testing framework for connected and autonomous vehicles</title>
+      <link>/blog/omnicav-launch/</link>
+      <pubDate>Fri, 25 Oct 2019 12:00:34 +0600</pubDate>
+      
+      <guid>/blog/omnicav-launch/</guid>
+      <description>OmniCAV: Aimsun is one of a consortium of 11 organisations embarking on a UK government funded project to create a high fidelity simulation environment, including artificial intelligence (AI) trained models of road users, to test connected and autonomous vehicles (CAVs).</description>
+    </item>
+    
+  </channel>
+</rss>

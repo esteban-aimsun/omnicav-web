@@ -49,23 +49,27 @@ clients_logo_slider:
   title: Our partners
   item:
   - logo: images/clients-logo/admiral.jpg
-    URL: http://examplesite.com
+    URL: https://www.admiral.com/
   - logo: images/clients-logo/aimsun.jpg
-    URL: "#"
+    URL: https://www.aimsun.com/
+  - logo: images/clients-logo/alchera.jpg
+    URL: https://www.alcheratechnologies.com/
   - logo: images/clients-logo/arcadis.jpg
-    URL: http://examplesite.com
+    URL: https://www.arcadis.com/en/global/
   - logo: images/clients-logo/arrival.jpg
-    URL: "#"
+    URL: https://arrival.com/
   - logo: images/clients-logo/ordnance-survey.jpg
-    URL: http://examplesite.com
+    URL: https://www.ordnancesurvey.co.uk/
   - logo: images/clients-logo/oxfordshire-city-council.jpg
-    URL: "#"
+    URL: https://www.oxfordshire.gov.uk/
   - logo: images/clients-logo/race.jpg
-    URL: http://examplesite.com
+    URL: http://www.race.ukaea.uk/
+  - logo: images/clients-logo/thatcham.jpg
+    URL: https://www.thatcham.org/
   - logo: images/clients-logo/wmg.jpg
-    URL: "#"
+    URL: https://warwick.ac.uk/fac/sci/wmg
   - logo: images/clients-logo/xpi-simulation.jpg
-    URL: http://examplesite.com
+    URL: https://xpisimulation.com/
 blog:
   enable: true
   title: News

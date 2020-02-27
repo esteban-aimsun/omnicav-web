@@ -22,7 +22,7 @@ weight = 2
 [params]
 address = "UK"
 author = "OmniCAV"
-copyright = "Copyright &copy; 2020 OmniCAV. All rights reserved. Theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 OmniCAV. All rights reserved."
 description = "This is meta description"
 email = "example@omnicav.com"
 google_analitycs_id = "Your ID"
@@ -31,7 +31,7 @@ logo = "images/omnicav-shadow.png"
 phone = "+00 000 00 0000"
 theme_color = "#1d405e"
 [params.contact]
-enable = true
+enable = false
 form_action = "https://formspree.io/xrgkevow"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"

@@ -48,7 +48,6 @@ h1,
 
   h1,
   .h1 {
-    padding-left: 30px;
     font-size: 30px
   }
 }
@@ -724,7 +723,7 @@ textarea.form-control {
 }
 
 .footer-section {
-  padding-top: 200px
+  padding-top: 0
 }
 
 .section-on-footer {
@@ -841,7 +840,7 @@ blockquote {
 }
 
 .page-title {
-  padding: 250px 0 150px
+  padding: 250px 0 80px
 }
 
 .page-title .container {

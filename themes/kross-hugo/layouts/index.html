@@ -12,32 +12,7 @@
     <div class="layer-bg w-100">
       <img class="img-fluid w-100" src="{{`images/illustrations/hero-omnicav.jpg` | relURL}}" alt="bg-shape">
     </div>
-<!--
-    <div class="layer" id="l2">
-      <img src="{{`images/illustrations/dots-cyan.svg` | relURL}}" alt="bg-shape">
-    </div>
-    <div class="layer" id="l3">
-      <img src="{{`images/illustrations/leaf-orange.svg` | relURL}}" alt="bg-shape">
-    </div>
-    <div class="layer" id="l4">
-      <img src="{{`images/illustrations/dots-orange.svg` | relURL}}" alt="bg-shape">
-    </div>
-    <div class="layer" id="l5">
-      <img src="{{`images/illustrations/leaf-yellow.svg` | relURL}}" alt="bg-shape">
-    </div>
-    <div class="layer" id="l6">
-      <img src="{{`images/illustrations/leaf-cyan.svg` | relURL}}" alt="bg-shape">
-    </div>
-    <div class="layer" id="l7">
-      <img src="{{`images/illustrations/dots-group-orange.svg` | relURL}}" alt="bg-shape">
-    </div>
-    <div class="layer" id="l8">
-      <img src="{{`images/illustrations/leaf-pink-round.svg` | relURL}}" alt="bg-shape">
-    </div>
-    <div class="layer" id="l9">
-      <img src="{{`images/illustrations/leaf-cyan-2.svg` | relURL}}" alt="bg-shape">
-    </div>
--->
+
     <!-- social icon -->
     <ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
       {{ range .Site.Params.social }}
@@ -73,7 +48,7 @@
   {{ end }}
 
   {{ if .Site.Data.homepage.about.enable }}
-  <!-- about -->
+  <!-- intro -->
   <section class="section position-relative testimonial-bg-shapes">
     <div class="container">
       <div class="row">
@@ -85,18 +60,18 @@
       </div>
     </div>
   </section>
-  <!-- /about -->
+  <!-- /intro -->
   {{ end }}
 
 
   {{ if .Site.Data.homepage.education.enable }}
   {{ with .Site.Data.homepage.education }}
-  <!-- education -->
+  <!-- checks -->
   <section class="section position-relative">
     <div class="container">
       <div class="row">
         {{ range .item }}
-        <div class="col-lg-6 col-md-6 mb-60">
+        <div class="col-lg-6 col-md-6 mb-20">
           <div class="d-flex">
             <div class="mr-lg-5 mr-3">
               <i class="ti-check icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
@@ -113,11 +88,33 @@
     <!-- bg image -->
     <img class="img-fluid edu-bg-image w-100" src="{{`images/backgrounds/education-bg.jpg`|relURL}}" alt="bg-image">
   </section>
-  <!-- /education -->
+  <!-- /checks -->
   {{ end }}
   {{ end }}
 
 
+  {{ if .Site.Data.homepage.partners.enable }}
+  {{ with .Site.Data.homepage.partners }}
+  <!-- partners -->
+  <section class="section">
+    <div class="container">
+        <div class="col-12 text-center">
+          <h3 class="section-title">{{ .title }}</h3>
+        </div>
+      <div class="row">
+        {{ range .item }}
+        <div class="col-lg-3 d-flex">
+            <div style="margin: 0 auto;" class="px-5 py-4">
+              <a href="{{ .URL | safeURL }}"><img class="mb-10 d-inline-block" src="{{ .logo }}"></a>
+            </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /partners -->
+  {{ end }}
+  {{ end }}
 
   {{ if .Site.Data.homepage.clients_logo_slider.enable }}
   <!-- client logo slider -->

@@ -1,6 +1,16 @@
 {{ define "main" }}
 
-  {{ partial "page-title.html" . }}
+<section class="page-title bg-primary position-relative overflow-hidden">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h1 class="text-white font-tertiary">News</h1>
+      </div>
+    </div>
+  </div>
+  <!-- background shapes -->
+  <img src="{{`images/project-main.jpg`| relURL}}" alt="illustrations" class="bg-shape-1 w-100 img-responsive">
+</section>
 
   <section class="section">
     <div class="container">

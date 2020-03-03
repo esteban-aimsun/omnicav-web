@@ -1,13 +1,13 @@
 partner_list:
  enable : true
  item:
+  - title : Aimsun | Lead partner
+    logo: images/clients-logo/aimsun.jpg
+    description : Aimsun is an international software and services company with a singular focus on algorithms, modelling, and operational know-how for strategic transport planning, traffic engineering and mobility management. Aimsun develops, markets and supports Aimsun Next transport modelling software, which will provide the traffic simulation underpinning the OmniCAV project and developing its interfaces to allow seamless compatibility with XPI. Aimsun will also be undertaking the role of Project Lead.
+
   - title : Admiral
     logo: images/clients-logo/admiral.jpg
     description : Admiral is a FTSE 100 insurance company with 25 years history in delivering motor insurance direct to the UK market. Admiral has now grown to today serving over 4 million motor customers. Admiral will use its extensive experience to assist with the creation of a library of scenarios against which to test CAVs.
-
-  - title : Aimsun
-    logo: images/clients-logo/aimsun.jpg
-    description : Aimsun is an international software and services company with a singular focus on algorithms, modelling, and operational know-how for strategic transport planning, traffic engineering and mobility management. Aimsun develops, markets and supports Aimsun Next transport modelling software, which will provide the traffic simulation underpinning the OmniCAV project and developing its interfaces to allow seamless compatibility with XPI. Aimsun will also be undertaking the role of Project Lead.
 
   - title : Arcadis
     logo: images/clients-logo/arcadis.jpg

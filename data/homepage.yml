@@ -47,11 +47,13 @@ education:
 partners:
   enable: true
   title: Our partners
+  Subtitle: Lead
+  lead:
+  - logo: images/clients-logo/aimsun_lead.jpg
+    URL: https://www.aimsun.com/
   item:
   - logo: images/clients-logo/admiral.jpg
     URL: https://www.admiral.com/
-  - logo: images/clients-logo/aimsun.jpg
-    URL: https://www.aimsun.com/
   - logo: images/clients-logo/alchera.jpg
     URL: https://www.alcheratechnologies.com/
   - logo: images/clients-logo/arcadis.jpg

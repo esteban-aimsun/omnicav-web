@@ -7,7 +7,7 @@ service:
   item:
   - title: What?
     icon: images/omnicav-icons1.png
-    content: "OmniCAV is a consortium of ten world-leading organisations working together
+    content: "OmniCAV is a consortium of eleven world-leading organisations working together
       to develop real-world validated simulation-based framework for the testing and
       certification of autonomous vehicles (AVs) in the UK. "
     highlighted: false

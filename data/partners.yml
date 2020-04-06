@@ -9,6 +9,10 @@ partner_list:
     logo: images/clients-logo/admiral.jpg
     description : Admiral is a FTSE 100 insurance company with 25 years history in delivering motor insurance direct to the UK market. Admiral has now grown to today serving over 4 million motor customers. Admiral will use its extensive experience to assist with the creation of a library of scenarios against which to test CAVs.
 
+  - title : Alchera Technologies
+    logo: images/clients-logo/alchera.jpg
+    description : Alchera Technologies is an AI software startup that provides real-time analytics to operate and optimise road infrastructure dynamically. It provides operators and commercial users of road infrastructure with high quality real-time insights into vehicle and pedestrian movements around cities and major infrastructure at a national scale. Its flagship product, Alpha, operates with greater coverage, lower cost and greater reliability than any existing solutions by using state-of-the-art AI to fuse together existing sensor networks (including IoT devices and connected vehicles) and build an enriched comprehensive unified view which delivers first-of-a-kind, city-scale, real-time insight.
+
   - title : Arcadis
     logo: images/clients-logo/arcadis.jpg
     description : Arcadis, one of the world’s leading providers of Design and Consultancy services, has a strong focus on driving innovation in the design, delivery and operation of built and natural assets, including modelling the impact of CAV and new mobility on city and regional policy. Working with the consortium, Arcadis will be developing and implementing the traffic model at the heart of OmniCAV, designed to enable acceleration of testing the reliability and safety of CAV technology.

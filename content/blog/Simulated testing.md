@@ -5,9 +5,7 @@ image: "images/blog/Arrival_Van_1920.jpg"
 description: "June 2020: Delivered by 11 partners, led by Aimsun, and partly funded by government body Innovate UK, OmniCAV is a project designed to bridge simulation and trials on test tracks and on the street."
 ---
 
-### A Driverless Future for All.
-
-**Delivered by 11 partners, led by Aimsun, and partly funded by government body Innovate UK, OmniCAV is a project designed to bridge simulation and trials on test tracks and on the street. Omni is Latin for ‘all’ or ‘every’, and the project is ‘omni’ in several ways – omni in testing both off-street and on-street; omni in the types of road used, from urban and inter-urban to rural, and omni in terms of mode, whether vehicles, cyclists or pedestrians. Many of the algorithms used for automated driving can be virtually tested and refined and Aimsun’s role has been to provide the project’s core traffic simulation environment. Now in its 2nd year, the OmniCAV team has achieved the development of an end-to-end process involving multiple technology stacks.**
+**Now in its 2nd year, the OmniCAV team has achieved the development of an end-to-end process involving multiple technology stacks for testing connected and autonomous vehicles. Gavin Jackman updates us on the next steps.**
 
 ___
 

@@ -50,9 +50,3 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "https://twitter.com/omnicav"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "https://www.linkedin.com/company/omnicav/"
-icon = "ti-linkedin"

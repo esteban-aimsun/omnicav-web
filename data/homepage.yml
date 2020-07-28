@@ -20,7 +20,7 @@ service:
     highlighted: false
   - title: How?
     icon: images/omnicav-icons3.png
-    content: 'Funded jointly by Innovate UK (70%) and the project partners (30%),
+    content: 'Funded jointly by CCAV (70%) and the project partners (30%),
       OmniCAV is drawing on experience from across the AV ecosystem to create a realistic
       simulation that will enable accurate, reliable, and scalable testing of autonomous
       vehicles in a risk-free virtual environment. '
@@ -44,6 +44,32 @@ education:
   - title: Providing tools and processes to strengthen the UK’s AV ecosystem
   - title: Contributing a UK perspective to global safety standards to benefit the AV industry
   - title: Encouraging cross-sector collaboration and stakeholder engagement to address the complex issues surrounding the broad adoption of autonomous vehicles
+about_2:
+  enable: true
+  content: 'The OmniCAV Project is part-funded by the Centre for Connected and Autonomous Vehicles (CCAV), delivered in partnership with Innovate UK. It is part of the government’s £100 million Intelligent Mobility Fund, supporting the Future of Mobility Grand Challenge.
+
+
+  As a key part of the UK government’s modern Industrial Strategy, the Future of Mobility Grand Challenge was announced in 2017 to encourage and support extraordinary innovation in UK engineering and technology, making the UK a world leader within the transport industries.
+
+
+  This includes facilitating profound changes in transport technologies and business models, to make the movement of people, goods and services across the nation greener, safer, easier and more reliable. '
+  button:
+    enable: true
+    label: know more
+    URL: about
+
+funded:
+  enable: true
+  lead:
+  - logo:
+    URL:
+  - logo: images/clients-logo/ukri.jpg
+    URL: https://www.gov.uk/government/organisations/innovate-uk
+  - logo: images/clients-logo/ccav.jpg
+    URL: https://www.gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles
+  - logo:
+    URL:
+
 partners:
   enable: true
   title: Our partners

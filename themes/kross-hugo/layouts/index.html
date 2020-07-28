@@ -92,6 +92,43 @@
   {{ end }}
   {{ end }}
 
+  <hr>
+
+  {{ if .Site.Data.homepage.about_2.enable }}
+  <!-- Second Paragraph -->
+  <section class="section position-relative testimonial-bg-shapes">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto text-center">
+          {{ with .Site.Data.homepage.about_2 }}
+          <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /Second Paragraph -->
+  {{ end }}
+
+  {{ if .Site.Data.homepage.funded.enable }}
+  {{ with .Site.Data.homepage.funded }}
+  <!-- funded -->
+    <div class="container">
+      <div class="row">
+        {{ range .lead }}
+        <div class="col-3 d-flex">
+            <div style="margin: 0 auto;" class="px-20 mb-50">
+              <a href="{{ .URL | safeURL }}"><img style="max-width: 180px;" class="mb-10 d-inline-block" src="{{ .logo }}"></a>
+            </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  <!-- /funded -->
+  {{ end }}
+  {{ end }}
+
+  <hr>
 
   {{ if .Site.Data.homepage.partners.enable }}
   {{ with .Site.Data.homepage.partners }}

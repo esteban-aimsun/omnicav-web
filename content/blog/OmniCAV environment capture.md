@@ -2,12 +2,14 @@
 title: "OmniCAV environment capture"
 date: 2020-09-15T12:00:34+06:00
 image: "images/blog/OmniCAV-environment-capture.jpg"
-description: "Creating digital simulations of the built environment is nothing new. Planning, construction, transportation etc... has long used digital techniques to recreate the built environment and run scenarios and tests about how new designs and behaviours may affect the local and wider context, whether it be economically or socially. In recent years, initiatives such as BIM, Smart Cities and the development of Digital Twins has further proved that a digital version of the real world is an essential tool that can enable better outcomes across many different sectors."
+description: "Simon Navin of Ordnance Survey describes the challenges of preparing geospatial data for simulation of self-driving systems and how test and simulation environments can be developed using location information."
 ---
 
-**Creating digital simulations of the built environment is nothing new. Planning, construction, transportation etc... has long used digital techniques to recreate the built environment and run scenarios and tests about how new designs and behaviours may affect the local and wider context, whether it be economically or socially. In recent years, initiatives such as BIM, Smart Cities and the development of Digital Twins has further proved that a digital version of the real world is an essential tool that can enable better outcomes across many different sectors.**
+**Simon Navin of Ordnance Survey describes the challenges of preparing geospatial data for simulation of self-driving systems and how test and simulation environments can be developed using location information.**
 
 ___
+
+Creating digital simulations of the built environment is nothing new. Planning, construction, transportation etc. has long used digital techniques to recreate the built environment and run scenarios and tests about how new designs and behaviours may affect the local and wider context, whether it be economically or socially. In recent years, initiatives such as BIM, Smart Cities and the development of Digital Twins has further proved that a digital version of the real world is an essential tool that can enable better outcomes across many different sectors.
 
 Why is this of interest to Ordnance Survey, a 230-year-old organisation with a history of creating maps? Put simply, creating these built environment simulations is inherently a place-based challenge. It involves creating accurate, consistent and trusted geospatial data that can be relied upon to help deliver results that enable the outcomes being sought.
 

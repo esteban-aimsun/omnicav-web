@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Simulated testing</title>
+      <title>OmniCAV environment capture</title>
       <link>/blog/simulated-testing/</link>
-      <pubDate>Wed, 03 Jun 2020 12:00:34 +0600</pubDate>
+      <pubDate>Tue, 15 Sep 2020 12:00:34 +0600</pubDate>
       
       <guid>/blog/simulated-testing/</guid>
+      <description>Creating digital simulations of the built environment is nothing new. Planning, construction, transportation etc&amp;hellip; has long used digital techniques to recreate the built environment and run scenarios and tests about how new designs and behaviours may affect the local and wider context, whether it be economically or socially.</description>
+    </item>
+    
+    <item>
+      <title>Simulated testing</title>
+      <link>/blog/omnicav-environment-capture/</link>
+      <pubDate>Wed, 03 Jun 2020 12:00:34 +0600</pubDate>
+      
+      <guid>/blog/omnicav-environment-capture/</guid>
       <description>Now in its 2nd year, the OmniCAV team has achieved the development of an end-to-end process involving multiple technology stacks for testing connected and autonomous vehicles.</description>
     </item>
     
